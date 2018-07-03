@@ -50,7 +50,6 @@ button {
 }
 button:hover {
   /*animation: wiggle .5s infinite ease;*/
-  transform: scale(1.1);
 }
 .keys {
   display: flex;
@@ -81,8 +80,8 @@ button:hover {
 }
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #ffc800;
+  box-shadow: 0 0 1rem #ffc800;
 }
 kbd {
   display: block;
