@@ -25,31 +25,28 @@ img {
   max-width: 100%;
   object-fit: cover;
   display: block;
-  margin: 0 auto;
+  margin: 50px auto 0 auto;
   animation: wiggle 2s infinite ease;
-}
-
-html {
-  background: #FFF;
 }
 body{
   font-family: sans-serif;
+  background: rgb(212, 255, 195);
 }
 .container {
   position: absolute;
-  top:45%;
+  top:50%;
   left:50%;
   -ms-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translate(-50%,-50%);
   transform: translate(-50%,-50%);
-  width: 100%;
+  width: 95%;
+  background: #fff;
+  height: 94%;
+  padding: 50px;
 }
 button {
   border: 0;
   outline: 0;
-}
-button:hover {
-  /*animation: wiggle .5s infinite ease;*/
 }
 .keys {
   display: flex;
