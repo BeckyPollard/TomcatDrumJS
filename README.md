@@ -1,6 +1,6 @@
 # TomcatDrumJS
 <p>Creative coding with JavaScript to create a drumkit with keyboard input for sounds.</p>
-<p>Based off of lesson #2 of <a href="https://javascript30.com/">JavaScript30</a>, Wes Bos's 30 Day Vanilla JS Coding Challenge.</p>
+<p>Based off of lesson #1 of <a href="https://javascript30.com/">JavaScript30</a>, Wes Bos's 30 Day Vanilla JS Coding Challenge.</p>
 
 ### Features:
 - CSS variables for colour-picker
